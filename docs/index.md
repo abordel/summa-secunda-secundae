@@ -266,5 +266,5 @@ question_189.md
 * Removed unimportant text to make more readable
 
 ## Original Sources
-* [Project Gutenberg #17897](https://www.gutenberg.org/ebooks/17897)
+* [Project Gutenberg #18755](https://www.gutenberg.org/ebooks/18755)
 * [wikipedia](https://en.wikipedia.org/wiki/Thomas_Aquinas#/media/File:St-thomas-aquinas.jpg)
