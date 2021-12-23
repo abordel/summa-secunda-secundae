@@ -1,4 +1,4 @@
-# The Summa Theologiae Prima Secundae
+# The Summa Theologiae Secunda Secundae
 *St. Thomas Aquinas in the 13th century AD*
 
 ```{toctree}
