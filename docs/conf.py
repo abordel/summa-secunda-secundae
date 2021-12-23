@@ -50,7 +50,7 @@ html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 
 html_title = 'Summa Secunda Secundae'
-html_logo = '_static/St-thomas-aquinas_edit.jpg
+html_logo = '_static/St-thomas-aquinas_edit.jpg'
 html_favicon = '_static/Simple_Labarum2.ico'
 html_theme_options = {"toc_title": "Articles",
                       "use_download_button": False,
