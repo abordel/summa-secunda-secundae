@@ -1,6 +1,6 @@
 # Of Mercy*
 
-[*The one Latin word "misericordia" signifies either pity or mercy. The distinction between these two is that pity may stand either for the act or for the virtue, whereas mercy stands only for the virtue.]
+\**The one Latin word "misericordia" signifies either pity or mercy. The distinction between these two is that pity may stand either for the act or for the virtue, whereas mercy stands only for the virtue.*
 
 We must now go on to consider Mercy, under which head there are four
 points of inquiry:

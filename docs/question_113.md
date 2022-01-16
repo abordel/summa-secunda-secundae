@@ -1,7 +1,7 @@
 # Irony*
 
-[*Irony here must be given the signification of the Greek _eironia_,
-whence it is derived: dissimulation of one's own good points.]
+\**Irony here must be given the signification of the Greek _eironia_,
+whence it is derived: dissimulation of one's own good points.*
 
 We must now consider irony, under which head there are two points of
 inquiry:

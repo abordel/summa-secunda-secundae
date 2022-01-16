@@ -1,6 +1,6 @@
 # Of Backbiting*
 
-[*Or detraction]
+\**Or detraction*
 
 We must now consider backbiting, under which head there are four
 points of inquiry:

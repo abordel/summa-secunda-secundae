@@ -1,6 +1,6 @@
 # Of Magnanimity*
 
-[*Not in the ordinary restricted sense but as explained by the author]
+\**Not in the ordinary restricted sense but as explained by the author*
 
 We must now consider each of the parts of fortitude, including,
 however, the other parts under those mentioned by Tully, with the

@@ -1,9 +1,9 @@
 # Of Fear*
 
-[* St. Thomas calls this vice indifferently 'fear' or 'timidity.' The
+\**St. Thomas calls this vice indifferently 'fear' or 'timidity.' The
 translation requires one to adhere to these terms on account of the
 connection with the passion of fear. Otherwise 'cowardice' would be a
-better rendering.]
+better rendering.*
 
 We must now consider the vices opposed to fortitude: (1) Fear; (2)
 Fearlessness; (3) Daring.

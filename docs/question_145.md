@@ -1,7 +1,7 @@
 # Of Honesty*
 
-[*Honesty must be taken here in its broad sense as synonymous with
-moral goodness, from the point of view of decorum.]
+\**Honesty must be taken here in its broad sense as synonymous with
+moral goodness, from the point of view of decorum.*
 
 We must now consider honesty, under which head there are four points
 of inquiry:

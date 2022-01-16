@@ -1,7 +1,7 @@
 # Of Meanness*
 
-[*"Parvificentia," or doing mean things, just as "magnificentia" is
-doing great things.]
+\**"Parvificentia," or doing mean things, just as "magnificentia" is
+doing great things.*
 
 We must now consider the vices opposed to magnificence: under which
 head there are two points of inquiry:
